@@ -1,0 +1,14 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Meadowlark Travel",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
